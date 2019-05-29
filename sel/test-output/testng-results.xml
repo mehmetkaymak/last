@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="14" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-05-29T00:22:24Z" name="Default suite" finished-at="2019-05-29T00:22:24Z" duration-ms="121">
+    <groups>
+    </groups>
+    <test started-at="2019-05-29T00:22:24Z" name="Default test" finished-at="2019-05-29T00:22:24Z" duration-ms="121">
+      <class name="TESTNG.testA">
+        <test-method signature="testJ()[pri:0, instance:TESTNG.testA@3b2cf7ab]" started-at="2019-05-29T00:22:24Z" name="testJ" finished-at="2019-05-29T00:22:24Z" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJ -->
+        <test-method signature="testI()[pri:1, instance:TESTNG.testA@3b2cf7ab]" started-at="2019-05-29T00:22:24Z" name="testI" finished-at="2019-05-29T00:22:24Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testI -->
+        <test-method signature="testH()[pri:2, instance:TESTNG.testA@3b2cf7ab]" started-at="2019-05-29T00:22:24Z" name="testH" finished-at="2019-05-29T00:22:24Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testH -->
+        <test-method signature="testG()[pri:3, instance:TESTNG.testA@3b2cf7ab]" started-at="2019-05-29T00:22:24Z" name="testG" finished-at="2019-05-29T00:22:24Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testG -->
+        <test-method signature="testF()[pri:4, instance:TESTNG.testA@3b2cf7ab]" started-at="2019-05-29T00:22:24Z" name="testF" finished-at="2019-05-29T00:22:24Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testF -->
+        <test-method signature="testE()[pri:5, instance:TESTNG.testA@3b2cf7ab]" started-at="2019-05-29T00:22:24Z" name="testE" finished-at="2019-05-29T00:22:24Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testE -->
+        <test-method signature="testD()[pri:6, instance:TESTNG.testA@3b2cf7ab]" started-at="2019-05-29T00:22:24Z" name="testD" finished-at="2019-05-29T00:22:24Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testD -->
+        <test-method signature="testC()[pri:7, instance:TESTNG.testA@3b2cf7ab]" started-at="2019-05-29T00:22:24Z" name="testC" finished-at="2019-05-29T00:22:24Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testC -->
+        <test-method signature="testC()[pri:7, instance:TESTNG.testA@3b2cf7ab]" started-at="2019-05-29T00:22:24Z" name="testC" finished-at="2019-05-29T00:22:24Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testC -->
+        <test-method signature="testC()[pri:7, instance:TESTNG.testA@3b2cf7ab]" started-at="2019-05-29T00:22:24Z" name="testC" finished-at="2019-05-29T00:22:24Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testC -->
+        <test-method signature="testC()[pri:7, instance:TESTNG.testA@3b2cf7ab]" started-at="2019-05-29T00:22:24Z" name="testC" finished-at="2019-05-29T00:22:24Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testC -->
+        <test-method signature="testC()[pri:7, instance:TESTNG.testA@3b2cf7ab]" started-at="2019-05-29T00:22:24Z" name="testC" finished-at="2019-05-29T00:22:24Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testC -->
+        <test-method signature="testB()[pri:8, instance:TESTNG.testA@3b2cf7ab]" started-at="2019-05-29T00:22:24Z" name="testB" finished-at="2019-05-29T00:22:24Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testB -->
+        <test-method signature="testA()[pri:9, instance:TESTNG.testA@3b2cf7ab]" started-at="2019-05-29T00:22:24Z" name="testA" finished-at="2019-05-29T00:22:24Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testA -->
+      </class> <!-- TESTNG.testA -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
