@@ -3,13 +3,17 @@ import java.util.Scanner;
 
 public class store {
 Scanner input = new Scanner(System.in);
-	String name;
+	String name;	
  String address;
  ArrayList<Item> myStore= new ArrayList<>();
  int numItems;
+
  double totalSales;
+
+
  public void sell(String itemName) {
 	 for(  int i = 0 ; i < myStore.size();i++ ) {
+		 
 		 if( myStore.get(i).name.equals(itemName)   ) {
 			 System.out.println(itemName + " is sold for " + myStore.get(i).price);
 		 }

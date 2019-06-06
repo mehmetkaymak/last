@@ -1,14 +1,20 @@
 import java.util.ArrayList;
 
 public class Item {
+
+	public Item(String string, double itemPrice) {
+	
+
+}
+
 public static void main(String[] args) {
 	
 
-	ArrayList<String> names = new ArrayList<>();
+	ArrayList<String> name = new ArrayList<>();
 
-	names.add("james");
+	name.add("james");
 	//System.out.println(names.size());
-	names.add(0, "bond");
+	name.add(0, "bond");
  //System.out.println(names);
    int age =45;
    Integer age2 = age;  //  autoboxing into primitive type
@@ -19,5 +25,7 @@ public static void main(String[] args) {
    numbers.add(45);
    numbers.add(55);
    System.out.println(numbers);
-}	
+}
+
+
 }
